@@ -1,6 +1,8 @@
+# MyOI
+
 [ClashVPN](https://ikuuu.pw/)
 
-# 一些游戏网站
+## 一些游戏网站
 
 - 线上线下玩 [桌游合集](https://game.hullqin.cn/)
 - 没意思的画画 [Silk](http://weavesilk.com/)
@@ -8,7 +10,7 @@
 - 奇怪的文字游戏？ [名字竞技场](https://namerena.github.io/)
 - 莫名其妙解谜游戏 [NazoGame](https://nazo.one-story.cn/)
 
-# oier必备！！！（你值得拥有d=====(￣▽￣*)b）
+## oier必备！！！（你值得拥有d=====(￣▽￣*)b）
 
 - 算法超级大全 [OI Wiki](https://oi-wiki.org/)
 - 另一个题库 [Loj](https://loj.ac/) ==> 书上的题[《信息学奥赛一本通》](https://loj.ac/d/588)
@@ -23,4 +25,3 @@
 - 线性代数计算器 [矩阵计算器](https://matrixcalc.org/zh-CN/)
 - 一堆看不懂的数学玩意[数学杂记](https://www.luogu.com/paste/nnhhar1a)
 - 动态规划教程[动态规划从入门到入坟](https://www.luogu.com/article/qkzviqew)
-
