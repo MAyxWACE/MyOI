@@ -1,5 +1,7 @@
 # MyOI
 
+visit on web [MyOI](https://mayxwace.github.io/MyOI/)
+
 [ClashVPN](https://ikuuu.pw/)
 
 ## 一些游戏网站
