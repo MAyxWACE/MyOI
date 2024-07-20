@@ -2,7 +2,6 @@
 
 
 welcome to visit it on github  [MyOI](https://github.com/MAyxWACE/MyOI)
-
 ## 各种OJ
 - 首推[洛谷](https://www.luogu.com.cn/)！！
  - 另一个题库 [Loj](https://loj.ac/) ==> 书上的题[《信息学奥赛一本通》](https://loj.ac/d/588)
