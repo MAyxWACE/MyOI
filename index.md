@@ -9,6 +9,12 @@ welcome to visit it on github  [MyOI](https://github.com/MAyxWACE/MyOI)
 - 鼎鼎大名 [USACA](http://train.usaco.org/usacogate)
 - NOI题库[OpenJudge - NOI](http://noi.openjudge.cn/)
 - [UOJ](https://uoj.ac/problems)
+- 北京大学 [PKU](http://poj.org/)
+- 不会注册的 [UVA](https://onlinejudge.org/)
+- 打比赛 [CodeForces](https://codeforces.com/)
+- 还有这个OJ？[评测鸭](https://duck.ac/) 题目比较少
+
+
 ## OIer必备！！！（你值得拥有d=====(￣▽￣*)b）
 
 - 算法超级大全 [OI Wiki](https://oi-wiki.org/)
