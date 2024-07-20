@@ -3,8 +3,6 @@
 
 welcome to visit it on github  [MyOI](https://github.com/MAyxWACE/MyOI)
 
-![Github Stars](https://img.shields.io/github/stars/MAyxWACE/MyOI.svg)
-
 ## 一些游戏网站
 
 - 线上线下玩 [桌游合集](https://game.hullqin.cn/)
@@ -29,3 +27,6 @@ welcome to visit it on github  [MyOI](https://github.com/MAyxWACE/MyOI)
 - 一堆看不懂的数学玩意[数学杂记](https://www.luogu.com/paste/nnhhar1a)
 - 动态规划教程[动态规划从入门到入坟](https://www.luogu.com/article/qkzviqew)
 - 我也不知道这是啥 [Clash](https://ikuuu.pw/)
+
+
+![Github Stars](https://img.shields.io/github/stars/MAyxWACE/MyOI.svg)
