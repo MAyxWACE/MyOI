@@ -28,5 +28,11 @@ visit on web [MyOI](https://mayxwace.github.io/MyOI/)
 - 奇怪的文字游戏？ [名字竞技场](https://namerena.github.io/)
 - 莫名其妙解谜游戏 [NazoGame](https://nazo.one-story.cn/)
 
+<details>
+<summary>展开查看</summary>
+<pre><code>
+System.out.println("Hello to see U!");
+</code></pre>
+</details>
 
 ![Github Stars](https://img.shields.io/github/stars/MAyxWACE/MyOI.svg)
