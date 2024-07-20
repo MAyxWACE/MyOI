@@ -1,8 +1,7 @@
 # [MyOI](https://mayxwace.github.io/MyOI/)
 
-visit on github[MyOI](https://github.com/MAyxWACE/MyOI)
 
-[ClashVPN](https://ikuuu.pw/)
+welcome to visit it on github  [MyOI](https://github.com/MAyxWACE/MyOI)
 
 ## 一些游戏网站
 
@@ -23,8 +22,8 @@ visit on github[MyOI](https://github.com/MAyxWACE/MyOI)
 - 直观的数据结构 [通过动画可视化数据结构和算法](https://visualgo.net/zh)
 - 算法练手题单 [一个动态更新的洛谷综合题单](https://www.luogu.com/article/k1og8xr1)
 - Markdown编辑器1 [Cmd Markdown](https://www.zybuluo.com/mdeditor)
-- Markdown编辑器2(可以绑定github)[小书匠](https://markdown.xiaoshujiang.com/)
+- Markdown编辑器2(可以绑定github) [小书匠](https://markdown.xiaoshujiang.com/)
 - 线性代数计算器 [矩阵计算器](https://matrixcalc.org/zh-CN/)
 - 一堆看不懂的数学玩意[数学杂记](https://www.luogu.com/paste/nnhhar1a)
 - 动态规划教程[动态规划从入门到入坟](https://www.luogu.com/article/qkzviqew)
-- from MarkDown
+- 我也不知道这是啥 [Clash](https://ikuuu.pw/)
