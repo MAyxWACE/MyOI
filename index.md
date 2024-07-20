@@ -27,3 +27,4 @@ visit on github[MyOI](https://github.com/MAyxWACE/MyOI)
 - 线性代数计算器 [矩阵计算器](https://matrixcalc.org/zh-CN/)
 - 一堆看不懂的数学玩意[数学杂记](https://www.luogu.com/paste/nnhhar1a)
 - 动态规划教程[动态规划从入门到入坟](https://www.luogu.com/article/qkzviqew)
+- from MarkDown
