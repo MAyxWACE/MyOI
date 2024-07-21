@@ -12,6 +12,7 @@ welcome to visit it on github  [MyOI](https://github.com/MAyxWACE/MyOI)
 - 北京大学 [PKU](http://poj.org/)
 - 不会注册的 [UVA](https://onlinejudge.org/)
 - 打比赛 [CodeForces](https://codeforces.com/)
+- 又是一坨比赛 [AtCode](https://atcoder.jp/)
 - 还有这个OJ？[评测鸭](https://duck.ac/) 题目比较少
 
 
