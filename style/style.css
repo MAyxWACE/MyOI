@@ -1,0 +1,42 @@
+.good {
+    color:red;
+}
+
+a {
+    color:rgb(17, 77, 126);
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+html {
+    background-image: url(../img/backgrond1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-attachment: fixed;
+}
+
+body {
+    opacity: 0.65;
+    background-color:#ffffff;
+    width:800px;
+    margin:0 auto;
+    padding:0 20px 20px 20px;
+    border:5px;
+}
+
+li {
+    padding:0 5px 2px;
+}
+
+li:hover {
+    color:rgb(84, 62, 212);
+}
+
+a:hover {
+    color:#ae00ff;
+}
