@@ -16,7 +16,8 @@ html {
     background-image: url(../img/backgrond1.png);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 50%;
+    background-size: contain;
+    /* background-size: 50%; */
     background-attachment: fixed;
 }
 
