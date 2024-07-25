@@ -45,3 +45,26 @@ li:hover {
 a:hover {
     color:#ae00ff;
 }
+
+form .text {
+    display: inline-block;
+    border: 0;
+    width: 260px;
+    height: 35px;
+    font-size: 14px;
+    outline: none;
+    border: 2px solid #01af63;
+}
+
+form .search {
+    
+    width: 90px;
+    height: 38px;
+    border: 2px solid #01af63;
+    outline: none;
+    cursor: pointer;
+    /*   cursor: pointer;   鼠标悬停或点击时button时鼠标变成其他图标  */
+    text-align: center;
+    background-color: #01af63;
+    color: #FFFFFF;
+}
